@@ -32,7 +32,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
 - Open IIS as an Admin
 - Register PHP from within IIS
-- Reload IIS (Open IIS, Stop and Start the server)
 - Install osTicket v1.15.8
 - Reload IIS (Open IIS, Stop and Start the server)
 - Go to sites -> Default -> osTicket
@@ -147,7 +146,7 @@ Open IIS as an Admin (image shown above)
 <img src="https://i.imgur.com/RlaH9lb.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
-Register PHP from within IIS as foolows: double click PHP Manager>register new PHP version>browser>This PC>window (c:)\PHP folder>php.cgi>open>okay (image shown above)
+Register PHP from within IIS as foolows: double click PHP Manager>register new PHP version>browser>This PC>window (c:)\PHP folder>php.cgi>open>okay and then restart the server on the top right of the page or Reload IIS (Open IIS, Stop and Start the server) (image shown above)
 </p>
 <br />
 
@@ -155,7 +154,11 @@ Register PHP from within IIS as foolows: double click PHP Manager>register new P
 <img src="https://i.imgur.com/IcNzhjF.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
-Download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) (image shown above)
+Install osTicket v1.15.8
+
+	Download osTicket from the Installation Files Folder
+	Extract and copy “upload” folder to c:\inetpub\wwwroot
+	Within c:\inetpub\wwwroot, Rename “upload” to “osTicket” (image shown above)
 </p>
 <br />
 
