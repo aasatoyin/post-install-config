@@ -63,6 +63,55 @@ The image above showed how remote access was gained into our VM (check the IP ad
 <br />
 
 <p>
+<img src="https://i.imgur.com/DLuLShI.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+  
+</p>
+<p>
+  We install / enable IIS in Windows WITH CGI and Common HTTP Features as followed: 
+CGI and Common HTTP Features
+World Wide Web Services -> Application Development Features ->
+[X] CGI
+[X] Common HTTP Features
+AND IIS Management Console
+Internet Information Services -> Web Management Tools -> IIS Management Console
+	[X] IIS Management Console.   Pictuure shown above for ease of navigation
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/1hFt9KB.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+IIS is a Web server that OSticket runs on, therefore, we checked if the webserver is up and running by typing. 127.0.0.1 into web browser to load default IIS server shown the image above. 127.0.0.1 is a local host of the loopback trying to load a webpage that is running off myself, then.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
