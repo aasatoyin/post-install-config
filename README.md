@@ -1,4 +1,4 @@
-![IMG_1340](https://github.com/aasatoyin/post-install-config/assets/139018109/34a9351e-fe03-4634-8d01-19a7ed82901d)<p align="center">
+<p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
