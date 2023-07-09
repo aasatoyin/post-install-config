@@ -250,8 +250,11 @@ We should be able to get the above image once we click 'install'
 </p>
 <br />
 
+</p>
 <p>
 Clean up
 Delete: C:\inetpub\wwwroot\osTicket\setup
 Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 
+</p>
+<br />
