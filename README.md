@@ -151,7 +151,7 @@ Register PHP from within IIS as foolows: double click PHP Manager>register new P
 <br />
 
 <p>
-<img src="https://i.imgur.com/IcNzhjF.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/cddXUe2.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
 Install osTicket v1.15.8
