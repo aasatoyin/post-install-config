@@ -144,10 +144,10 @@ Open IIS as an Admin (image shown above)
 <br />
 
 <p>
-<img src="https://i.imgur.com/IcNzhjF.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/RlaH9lb.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
-Download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) (image shown above)
+Register PHP from within IIS as foolows: double click PHP Manager>register new PHP version>browser>This PC>window (c:)\PHP folder>php.cgi>open>okay (image shown above)
 </p>
 <br />
 
