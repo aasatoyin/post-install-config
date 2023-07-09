@@ -112,6 +112,76 @@ Create the directory C:\PHP
 <br />
 
 <p>
+<img src="https://i.imgur.com/hHc5Wt6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+</p>
+<p>
+Download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP as follows:  goto download>right click to Extract>browse>This PC>PHP>Extract. (image shown above)
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/f4TtSvF.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+</p>
+<p>
+Download and install VC_redist.x86.exe (image shown above)
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/PSj1sZm.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+</p>
+<p>
+Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi) as follows: Agree>Next>Select Tropical>Install>Finish>Next>Tick Standard configuration>Next>Enter password>Next>Execute>Finish. (image shown above)
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/x86p96x.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+</p>
+<p>
+Open IIS as an Admin (image shown above)
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/IcNzhjF.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+</p>
+<p>
+Download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) (image shown above)
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/IcNzhjF.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+</p>
+<p>
+Download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) (image shown above)
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/IcNzhjF.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+</p>
+<p>
+Download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) (image shown above)
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/IcNzhjF.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+</p>
+<p>
+Download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) (image shown above)
+</p>
+<br />
+
+
+
+
+
+
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
