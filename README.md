@@ -196,10 +196,11 @@ Do the following to eneble the disabled extension in osticket
 <br />
 
 </p>
+<img src="https://i.imgur.com/0Caztcs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 <p>
 Rename: ost-config.php by following this procedure
 	- From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
-	- To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+	- To: C:\inetpub\wwwroot\osTicket\include\ost-config.php  (Baiclly just erase 'sample')
 </p>
 <br />
 
