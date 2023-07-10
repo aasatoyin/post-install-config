@@ -113,7 +113,7 @@ Create the directory C:\PHP
 <img src="https://i.imgur.com/hHc5Wt6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
-Download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP as follows:  goto download>right click to Extract>browse>This PC>PHP>Extract. (image shown above)
+Download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP file that was created earlier as follows:  goto download>right click to Extract>browse>This PC>PHP>Extract. (image shown above)
 </p>
 <br />
 
@@ -137,7 +137,7 @@ Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi) as follows: Agree>Nex
 <img src="https://i.imgur.com/x86p96x.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
-Open IIS as an Admin (image shown above)
+Open IIS as an Admin as folows: type internet information service on the start button > right click on ISS and click run as admin (image shown above)
 </p>
 <br />
 
