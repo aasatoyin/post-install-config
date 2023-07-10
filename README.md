@@ -205,22 +205,20 @@ Rename: ost-config.php by following this procedure
 <br />
 
 <p>
+<img src="https://i.imgur.com/Ot23lcn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 <p>
-Assign Permissions by following the procedure: ost-config.php
-	- Disable inheritance -> Remove All
-	- New Permissions -> Everyone -> All
+Assign Permissions by following the procedure: right click on ost-config.php -> properties -> security -> advance -> disable inheritance -> remove all inheritance permissions from this object -> add permission -> select a principal -> type 'everyone' in the text box -> click check names -> ok -> check full -> ok -> apply -> ok -> ok
 
 </p>
 <br />
 
 
 <p>
-<img src="https://i.imgur.com/MCsfsvB.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pIhM0rb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Continue Setting up osTicket in the browser (click Continue) The image must have enable part or all of the disabled extensions 
-Name Helpdesk
-Default email (receives email from customers)
+Click 'continue' in osTicket in the browser and fill out the form as shown in the above image (remember all details filled and NEVER click install)  
+
 </p>
 <br />
 
