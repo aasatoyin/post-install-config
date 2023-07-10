@@ -226,7 +226,7 @@ Click 'continue' in osTicket in the browser and fill out the form as shown in th
 <img src="https://i.imgur.com/iJ6mLAI.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
-From the Installation Files, download and install HeidiSQL.
+Download and install HeidiSQL. (this allow us to connect to SQL server and set up a database that osticket will use)
 Open Heidi SQL
 Create a new session, root/******* (this is the password used why setting up mysql server)
 Connect to the session
