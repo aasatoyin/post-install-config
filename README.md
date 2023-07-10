@@ -48,7 +48,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/VgAOIig.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-IP address is copied from VM created on Azure, default username and password generated when creating our VM were used to gain access and VM was remote login into successfully.
+IP address is copied from VM created on Azure, default username and password generated when creating our VM were used to gain access and VM was remote login successfully.
 </p>
 <br />
 
@@ -65,7 +65,7 @@ The image above showed how remote access was gained into our VM (check the IP ad
   
 </p>
 <p>
-  We install / enable IIS in Windows WITH CGI and Common HTTP Features as followed: 
+  Installing and enabling of IIS in Windows WITH CGI and Common HTTP Features done as follows: 
 CGI and Common HTTP Features
 World Wide Web Services -> Application Development Features ->
 [X] CGI
