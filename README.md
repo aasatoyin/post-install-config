@@ -183,8 +183,15 @@ Do the following to eneble the disabled extension in osticket
 	Enable: php_imap.dll
 	Enable: php_intl.dll
 	Enable: php_opcache.dll
-	efresh the osTicket site in your browse, observe the changes
 (image shown above)
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DSw1tBr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+</p>
+<p>
+	Refresh the osTicket site in your browse, observe the changes. This should now look like the image shown above
 </p>
 <br />
 
