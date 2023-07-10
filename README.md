@@ -226,25 +226,33 @@ Click 'continue' in osTicket in the browser and fill out the form as shown in th
 <img src="https://i.imgur.com/iJ6mLAI.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
-Download and install HeidiSQL. (this allow us to connect to SQL server and set up a database that osticket will use)
-Open Heidi SQL
-Create a new session, root/******* (this is the password used why setting up mysql server)
-Connect to the session
-Create a database called “osTicket”
-(image shown above)
+Download and install HeidiSQL. (this allow us to connect to SQL server and set up a database that osticket will use) slick 'finish' and this will load a new interface
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/L40Dujj.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/nNFnV16.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
-Continue Setting up osticket in the browser
-	MySQL Database: osTicket
-	MySQL Username: root
-	MySQL Password: Password1
-	Click “Install Now!”
-	(image shown above)
+Click new to Create a new session to database, supplying password ******* (Note that the user name is 'root', then supply password used why setting up mysql server) -> open.
+
+<p>
+<img src="https://i.imgur.com/W1BUVZX.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+</p>
+<p>
+Create a new database call osticket as follows: right click on unnamed -> create new -> database -> name it 'osticket' -> ok as shown in the above image 
+</p>
+<br />
+	
+<p>
+<img src="https://i.imgur.com/yqe6EGZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+</p>
+<p>
+Go back to osticket page to supply database details: MySQL Database 'osticket', MySQL user name 'root' and MySQL password that you used then click 'install' as shown in the above image 
+</p>
+<br />
+
 </p>
 <br />
 
@@ -256,11 +264,34 @@ We should be able to get the above image once we click 'install'
 </p>
 <br />
 
+<p>
+<img src="https://i.imgur.com/lpizPEv.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
-Clean up
-Delete: C:\inetpub\wwwroot\osTicket\setup
-Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
-
+ We need to do some clean up by deleting setup file as follows: 
+Goto C:\inetpub\wwwroot\osTicket\setup
 </p>
 <br />
+
+
+<p>
+<img src="https://i.imgur.com/lpizPEv.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+</p>
+<p>
+ Finally we need to set the permission back to 'Read' ony as follows: Goto C:\inetpub\wwwroot\osTicket\include\ost-config.php ->right click on ost-config.php -> properties -> security -> advance -> everyone -> edit -> uncheck 'full', 'modify' and 'write' but only leave 'read' and 'read and execute' checked -> ok -> apply -> ok -> ok. 
+</p>
+<br />
+
+</p>
+<p>
+Congratulations, hopefully it is installed with no errors!
+Browse to your help desk login page: 
+	
+Admin user osticket URL: 
+http://localhost/osTicket/scp/login.php
+
+End Users osTicket URL:
+http://localhost/osTicket/ 
+</p>
+<br />
+
