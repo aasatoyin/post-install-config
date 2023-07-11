@@ -22,7 +22,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Roles
 - Configure Departments
 - Configure Teams
-- Allow anyone to create tickets
 - Configure Agents (workers)
 - Configure Users (customers)
 - Configure SLA
@@ -101,6 +100,15 @@ To create a Team in your Admin Panel, locate the Agents tab, and click on Teams.
 </p>
 <br />
 
+<p>
+<img src="https://i.imgur.com/x6lOInK.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Agents are given access to the help desk with the intent to respond and resolve the tickets. When adding an Agent to the help desk, they will need to be assigned to a Primary Department and given a Primary Role for the Tickets/Tasks routed to that department. Agents can be given Extended Access to additional departments of the help desk as well as assigned different Roles to those departments; this can be configured in the Access tab of the Agent’s Profile.
+
+Admin Panel -> Agents -> Add New Agent -> and fill out the appropriate information. Note: We can configure a whole lot of thing here such as assign permission, Set or reset agent password, assign agent to Team, assign department, assign team, assign extended access and so on. Note: We can add as many use as we desired.
+</p>
+<br />
 
 
 
@@ -111,10 +119,15 @@ To create a Team in your Admin Panel, locate the Agents tab, and click on Teams.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/O974ZEo.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Users can now create an account and log-in to create a ticket or check a ticket’s status. As always with osTicket, users or ticket creators are associated with their email address as the unique identifier of each user. The User Directory, located on the Agent Panel, allows agents to search tickets by user as well as create Organizations to associate the user to. Agents can be configured as internal Account Managers for tickets created by users of an Organization.
+
+What is a User?
+Users are the ticket owners of the tickets in the help desk. When a ticket is created in the help desk, the user is associated with their email address in the User Directory of the help desk. Users can be added or deleted from the User Directory of the help desk at any time. Please note, if the user is deleted the tickets of the user must also be deleted.
+
+A user is created in the Agent Panel, so we will switch to agent panel from the top right of the page : Agent panel -> USer >
 </p>
 <br />
 
