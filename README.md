@@ -48,12 +48,34 @@ Remote access gained succefully.
 <br />
 
 <p>
-<img src="https://i.imgur.com/H1fisZm.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/D25cyWC.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Browse the admin URL and osticket page will load as shown in the above image 
+Copy and paste admin URL on your VM browser -> login with admin user name and password created from the installation stage. osticket page will load as shown in the above image. 
   
-  http://localhost/osTicket/scp/login.php
+ Admin URL- http://localhost/osTicket/scp/login.php
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/SJsQO93.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Possibly this page will come up if you click login. However, you can navigate between agent and admin panel at the tope right of the page as shown in image. Note that the above image is currently in agent panel then you can click admin panel to navigate from the current panel.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/BEkZjQZ.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+Configure Roles: Roles are the permissions granted to Agents per Department that they have access to. Each Role has a set of permissions that can be checked/unchecked for agents given that Role in association with a Department they have access to. An unlimited number of roles can be created and assigned to Agents with access to various departments.
+
+Admin Panel -> Agents -> Roles -> Add New Role -> Defination (Name it Supreme Admin) -> Permission -> Ticket -> Task -> Knowledged -> Add Role. Tick all boxes because we are given full permission to this supreme admin
+
+
+
 </p>
 <br />
 
