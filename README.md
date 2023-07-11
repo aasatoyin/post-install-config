@@ -145,3 +145,11 @@ Help Topics can be created by going to the Admin Panel -> Help Topics -> and fil
 </p>
 <br />
 
+</p>
+<p>
+Congratulations, hopefully you're able to configure everything perfectly without no error!
+
+See you next time in my osTicket: Ticket Lifecycle Examples.
+
+</p>
+<br />
