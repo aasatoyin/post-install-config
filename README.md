@@ -106,7 +106,7 @@ To create a Team in your Admin Panel, locate the Agents tab, and click on Teams.
 <p>
 Configure Agents: Agents are given access to the help desk with the intent to respond and resolve the tickets. When adding an Agent to the help desk, they will need to be assigned to a Primary Department and given a Primary Role for the Tickets/Tasks routed to that department. Agents can be given Extended Access to additional departments of the help desk as well as assigned different Roles to those departments; this can be configured in the Access tab of the Agent’s Profile.
 
-Admin Panel -> Agents -> Add New Agent -> and fill out the appropriate information. Note: We can configure a whole lot of thing here such as assign permission, Set or reset agent password, assign agent to Team, assign department, assign team, assign extended access and so on. Note: We can add as many agents as possible by clicking on Add New Agent.
+Admin Panel -> Agents -> Add New Agent -> and fill out the appropriate information. Note: We can configure a whole lot of thing here such as assign permission, Set or reset agent password, assign agent to Team, assign department, assign team, assign extended access and so on. Note: We can add as many agents as possible by adding New Agent.
 </p>
 <br />
 
@@ -119,7 +119,7 @@ Configure Users: Users can now create an account and log-in to create a ticket o
 What is a User?
 Users are the ticket owners of the tickets in the help desk. When a ticket is created in the help desk, the user is associated with their email address in the User Directory of the help desk. Users can be added or deleted from the User Directory of the help desk at any time. Please note, if the user is deleted the tickets of the user must also be deleted.
 
-A user is created in the Agent Panel, so we will switch to agent panel at the top right of the page : Agent panel -> USer > Add User > and fill out the appropriate information. Note: We can add as many user as possible by clicking Add New User.
+A user is created in the Agent Panel, so we will switch to agent panel at the top right of the page : Agent panel -> USer > Add User > and fill out the appropriate information. Note: We can add as many user as possible by adding New User.
 </p>
 <br />
 
@@ -140,7 +140,7 @@ SLA Plans can be created by going to the Admin Panel > Manage > SLA Plans. Click
 <p>
 Configure Help Topics: Help Topic is like a quick guide that help users to choose the right Topic for their ticket. For instance, Business Critical Outage, Personal Computer Issues, Equipment Request, Password Reset and so on.
 
-Help Topics can be created by going to the Admin Panel -> Help Topics -> and fill out the appropriate information -> Add Help Topic
+Help Topics can be created by going to the Admin Panel -> Help Topics -> and fill out the appropriate information -> Add Help Topic. Note: Help Topics can also be created as much as possible by adding New Help Topics.
 
 </p>
 <br />
