@@ -72,7 +72,23 @@ Possibly this page will come up if you click login. However, you can navigate be
 
 Configure Roles: Roles are the permissions granted to Agents per Department that they have access to. Each Role has a set of permissions that can be checked/unchecked for agents given that Role in association with a Department they have access to. An unlimited number of roles can be created and assigned to Agents with access to various departments.
 
-Admin Panel -> Agents -> Roles -> Add New Role -> Defination (Name it Supreme Admin) -> Permission -> Ticket -> Task -> Knowledged -> Add Role. Tick all boxes because we are given full permission to this supreme admin
+Admin Panel -> Agents -> Roles -> Add New Role -> Defination (Name it Supreme Admin) -> Permission -> Ticket -> Task -> Knowledged -> Add Role. Tick all boxes because we are given full permission to this supreme admin. 
+
+For the purpose of this project we have created a role that can do everything in the organization. Note that you can assign permission based on role.
+
+<p>
+<img src="https://i.imgur.com/bIA2mCS.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Configure Department: Since tickets are routed through Departments in the help desk, there are many settings that can be set for each Department.
+
+Admin Panel -> Agents -> Department -> Add Department -> Settings (Name it System Administrator) -> Access. Note: there are whole lot of what we can do when creating department but we just limit it to typing the name of the department and click on 'create dept' to make sure the project is not too long.
+
+Department created successuly as 'System Administrator' form the image shown above 
+</p>
+<br />
+
+
 
 
 
