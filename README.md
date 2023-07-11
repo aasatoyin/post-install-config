@@ -75,6 +75,8 @@ Configure Roles: Roles are the permissions granted to Agents per Department that
 Admin Panel -> Agents -> Roles -> Add New Role -> Defination (Name it Supreme Admin) -> Permission -> Ticket -> Task -> Knowledged -> Add Role. Tick all boxes because we are given full permission to this supreme admin. 
 
 For the purpose of this project we have created a role that can do everything in the organization. Note that you can assign permission based on role.
+</p>
+<br />
 
 <p>
 <img src="https://i.imgur.com/bIA2mCS.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -84,10 +86,20 @@ Configure Department: Since tickets are routed through Departments in the help d
 
 Admin Panel -> Agents -> Department -> Add Department -> Settings (Name it System Administrator) -> Access. Note: there are whole lot of what we can do when creating department but we just limit it to typing the name of the department and click on 'create dept' to make sure the project is not too long.
 
-Department created successuly as 'System Administrator' form the image shown above 
+Department created successuly as 'System Administrator' form the image shown above.
 </p>
 <br />
 
+<p>
+<img src="https://i.imgur.com/tZJRAqG.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Teams allow you to pull Agents from different Departments and organize them to handle a specific issue or user via a Help Topic or Ticket Filter. Having Agents from different Departments assigned to a Team will supersede the parameters of the Agents’ Department rules. For example, you can create a Help Topic associated with a particular product you produce, and assign it to a Team of specialist Agents from different Departments. A Team can have an appointed leader who can receive Alerts & Notices separate from other team members. In order to set a Team Leader you can choose an Agent from the Team Lead dropdown when creating a Team or Editing an existing Team.
+
+To create a Team in your Admin Panel, locate the Agents tab, and click on Teams. Then click Add New Team on the right, and fill out the appropriate information. Then you will be able to add Agents to the team by clicking on their name from your list of Agents and checking the corresponding box next to the Team name you wish to add them at the bottom of the page.
+
+</p>
+<br />
 
 
 
